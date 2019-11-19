@@ -1,0 +1,8 @@
+.shop {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border: 1px dotted red;
+    justify-content: center;
+    ;
+}
